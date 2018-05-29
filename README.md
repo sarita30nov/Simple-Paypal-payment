@@ -1,0 +1,1 @@
+This script will alow user to pay money via paypal like online shopping
